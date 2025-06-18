@@ -13,7 +13,7 @@ People know that Jeep cars are tough, can go off-road, and have smart infotainme
    :alt: My Project Logo
    :width: 350px
    :align: center
-   :target: https://ramgpsmapupdate.com
+   :target: https://jeepmapupdate.net
 
 You may avoid using old routes, missing areas of interest, and wrong traffic data by keeping your navigation system up to date. This guide will show you step by step how to update your Jeep GPS map, as well as some hints to make the process go faster and more smoothly.
 
