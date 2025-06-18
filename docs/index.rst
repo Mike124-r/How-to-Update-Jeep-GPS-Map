@@ -9,7 +9,7 @@ How to Complete Jeep GPS Map Update Smoothly
 People know that Jeep cars are tough, can go off-road, and have smart infotainment systems. A trustworthy GPS navigation system that gives you important driving directions is at the heart of numerous Jeep models. It's crucial to regularly update your Jeep GPS maps to keep them accurate, working well, and giving you access to the most up-to-date road information.
 
 
-.. image:: docs/update.png
+.. image:: update.png
    :alt: My Project Logo
    :width: 350px
    :align: center
